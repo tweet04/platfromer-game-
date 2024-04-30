@@ -10,6 +10,4 @@ use the arrows up,down,left,right to move.
 
 ## Screenshorts
 
-![Title screen](SNAKE GAME)
-
-![Play screen]((https://raw.githubusercontent.com/tweet04/platfromer-game-/main/screenshort%20gsme%20screen-png/Screenshot%202024-04-30%20101602.png)
+![Play screen](https://raw.githubusercontent.com/tweet04/platfromer-game-/main/screenshort%20gsme%20screen-png/Screenshot%202024-04-30%20101602.png)
